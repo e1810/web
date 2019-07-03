@@ -5,3 +5,7 @@ table, td, th{
 	border: solid 1px gray;
 	background-color: white;
 }
+
+.face {
+	color: darkblue;
+}
