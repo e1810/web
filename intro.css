@@ -6,10 +6,35 @@ table, td, th{
 	background-color: white;
 }
 
+#header{
+	width: 140px;
+}
+
 .face {
 	color: darkblue;
 }
-
 .back {
+	color: violet;
 	opacity: 0.4;
+}
+.true {
+	color: red;
+}
+
+#generater{
+	background-color:blue;
+	color: white;
+	width: 500px;
+	padding: 20px;
+	border: 5px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+input{
+	height: 20px;
+}
+button{
+	padding: 5px 20px;
+	background-color: lightblue;
+	border-style: none;
 }
