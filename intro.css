@@ -9,3 +9,7 @@ table, td, th{
 .face {
 	color: darkblue;
 }
+
+.back {
+	opacity: 0.4;
+}
