@@ -1,0 +1,2 @@
+node --prof main.js
+node --prof-process isolate-0x0000000-v0.log
